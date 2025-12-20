@@ -1,5 +1,5 @@
 # Python (Backend)
-__pycache__/
+backend/__pycache__/
 *.pyc
 backend/venv/
 backend/.env
